@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 git pull
+=======
+git command line used: git commit -m 'new file added'
+>>>>>>> update_script
